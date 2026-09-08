@@ -237,3 +237,6 @@ This repository serves as the official landing page for Epson Print and Scan. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Epson Print and Scan today!**
+
+---
+**Last updated:** 2026-09-08 09:33:09 UTC
