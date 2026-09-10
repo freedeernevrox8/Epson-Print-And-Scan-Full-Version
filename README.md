@@ -239,4 +239,4 @@ This repository serves as the official landing page for Epson Print and Scan. Th
 **Get the most recent version of Epson Print and Scan today!**
 
 ---
-**Last updated:** 2026-09-10 14:13:41 UTC
+**Last updated:** 2026-09-10 18:16:09 UTC
